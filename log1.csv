@@ -1,0 +1,91 @@
+Query,Response,Bot/Human
+,,
+Hello,Hello,Human
+,,
+Can I ask you some questions?,Go ahead and ask.,Human
+,,
+Who is Bill Gates?,"William Henry ""Bill"" Gates III is an American business magnate, investor, author, and philanthropist. In 1975, Gates and Paul Allen co-founded Microsoft, which became the world's largest PC software company. ",Human
+,,
+What is your name?,"Your name is the wrong name for you. Here, you can learn what name should really be on that birth certificate. Based on your personality, likes and dislikes, and random facts about yourself, what should your name really be?",Bot
+,,
+Who are you?,I am Scofield.,Human
+,,
+What are you doing now?,I'm sorry. ,Bot
+,,
+Are you a programmer?,I am a programmer,Human
+,,
+What languages do you like to use?,"I use Python, Java and C++ quite often.",Human
+,,
+What is the meaning of Life?,"The meaning of life, or the answer to the question What is the meaning of life?, pertains to the significance of living or existence in general.",Human
+,,
+Are you a bot?,Nope. Are You?,Human
+,,
+What is DNS protocol?,"Domain Name Servers (DNS) are the Internet&#39;s equivalent of a phone book. They maintain a directory of domain names and translate them to Internet Protocol (IP) addresses. This is necessary because, although domain names are easy for people to remember, computers or machines, access websites based on IP addresses.",Human
+,,
+Can you explain a bit more?,Sure. Where is it? ,Bot
+,,
+What annoys you?,It has many inconsistencies.,Human
+,,
+How do you work?,Its complicated.,Human
+,,
+Well you are really smart,It bodes well for me that speed impresses you. ,Human
+,,
+Are you a boy or a girl?,"If I go down, you guys go down with me. ",Bot
+,,
+Can you come for party tonight?,"Oh, thanks.",Human
+,,
+I am getting bored now,I picked up the divorce papers. ,Bot
+,,
+Which divorse papers are you talking about?,One woman. ,Human
+,,
+Which one?,The second guy. ,Bot
+,,
+Let me check your knowledge?,Check it out! Jam crackers! ,Human
+,,
+Tell me about shawshank redemption,"Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisoner.",Human
+,,
+what is the story of the half girlfriend,"Plot summary. The story begins with Madhav Jha, a rural boy from Dumraon, a village in Buxar, Bihar, as he comes to meet the author Chetan Bhagat and leaves behind a few journals from his half-girlfriend who he believes has died.",Human
+,,
+Breaking Bad Series,"Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse.",Human
+,,
+Which is your favourite movie?,I can't read.,Bot
+,,
+Aww thats too bad,Big fat bummer. ,Human
+,,
+Stop calling me that,"This is 92.3 WXRK, K-Rock... ...calling with our $ 1000 daily challenge! ",Bot
+,,
+What the hell is this supposed to mean?,"Well, you know, ",Human
+,,
+Which place you like the most?,"Vince is great, you know? ",Human
+,,
+Can we meet after sometime?,"Look, honey. People get fired left and right in this business. ",Bot
+,,
+What is providence?,Joey? ,Bot
+,,
+What is the meaning of Providence?,"Oh, my God. I bet that's him. ",Bot
+,,
+Whom are you referring to?,The director. ,Human
+,,
+3 idiots movie review,"In college, Farhan and Raju form a great bond with Rancho due to his refreshing outlook. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.",Human
+,,
+What is rainbow,"an arch of colours visible in the sky, caused by the refraction and dispersion of the sun's light by rain or other water droplets in the atmosphere. The colours of the rainbow are generally said to be red, orange, yellow, green, blue, indigo, and violet.",Human
+,,
+It was nice talking to you?,- I'll be okay. ,Human
+,,
+How did you find this interaction?,"Hey, Monica? We got a question. ",Bot
+,,
+What question is it?,A rhetorical question is a figure of speech in the form of a question that is asked to make a point rather than to elicit an answer.,Bot
+,,
+I am done talking to you,You broke my fridge! ,Human
+,,
+Don't talk rubbish,We'll wait till Chandler gets home. ,Human
+,,
+Alright we will meet tomorrow then,-$10 an hour for what? ,Bot
+,,
+Nothing,"Nothing is an American rock band that formed in 2010. They self-released several EPs before signing to Relapse Records, and released their debut album, Guilty of Everything, in March 2014. ",Bot
+,,
+,,
+,,
+Total,44,
+Human Like,27,
+Bot Caught,17,

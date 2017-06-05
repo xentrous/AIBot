@@ -1,10 +1,7 @@
 import re
-import os
 import sys
 import pyttsx
-import requests
 import mechanize
-import speech_recognition
 from time import sleep
 from chatterbot import ChatBot
 

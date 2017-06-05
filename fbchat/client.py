@@ -219,7 +219,7 @@ class Client(object):
             self.fb_dtsg = soup.find("input", {'name':'fb_dtsg'})['value']
             self._setttstamp()
             # Set default payload
-            self.payloadDefault['__rev'] = int(r.text.split('"revision":',1)[1].split(",",1)[0])
+            #self.payloadDefault['__rev'] = int(r.text.split('"revision":',1)[1].split(",",1)[0])
             self.payloadDefault['__user'] = self.uid
             self.payloadDefault['__a'] = '1'
             self.payloadDefault['ttstamp'] = self.ttstamp
