@@ -1,7 +1,7 @@
 import fbchat
 import getpass
 
-username="xentrous@gmail.com"
+username="yourusernamehere@gmail.com"
 
 password=getpass.getpass("Enter Password:")
 
